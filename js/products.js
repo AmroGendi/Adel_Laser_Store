@@ -10,21 +10,21 @@ const STORE = {
   name: "LASER.STORE",
 
   // رقم الهاتف
-  phone: "2010XXXXXXXX",
+  phone: "01003956998",
 
   // رقم WhatsApp
   // اكتب الرقم بدون + وبدون مسافات
   // مثال: 01012345678 يصبح 201012345678
-  whatsapp: "2010XXXXXXXX",
+  whatsapp: "01003956998",
 
   // البريد الإلكتروني
   email: "info@laserstore-eg.com",
 
   // Instagram
-  instagram: "https://instagram.com/yourusername",
+  instagram: "https://instagram.com/laser_store",
 
   // Facebook
-  facebook: "https://facebook.com/yourusername"
+  facebook: "https://www.facebook.com/people/Laser-Store/61551779469346/"
 
 };
 
